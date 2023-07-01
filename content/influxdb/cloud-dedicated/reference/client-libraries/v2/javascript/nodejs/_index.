@@ -6,10 +6,10 @@ description: >
   The [InfluxDB v2 JavaScript client library](https://github.com/influxdata/influxdb-client-js)
   for Node.js integrates with the InfluxDB v2 API to write data to an InfluxDB Cloud Dedicated database.
 menu:
-  influxdb_cloud_dedicated:
+  influxbd_dedicated:cloud
     name: Node.js
     parent: JavaScript
-influxdb/cloud-dedicated/tags: [client libraries, JavaScript, NodeJS]
+influxdb/dedicated/tags: [client libraries, JavaScript, NodeJS]
 weight: 201
 aliases:
   - /influxdb/cloud-dedicated/reference/api/client-libraries/nodejs/ 
